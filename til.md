@@ -15,3 +15,8 @@ Yesterday 09/20/2021
 - Joins allows add complexity to our queries by allowing us to realate differnt tables
 - LEFT JOIN allows to see all data from the FROM table
 - RIGTH JOIN allows us to see all data from the joining table
+
+09/23/2021
+
+“Some lessons you learn gradually and some you learn in a sudden moment, like a flash going off in a dark room.”
+ ―  John Darnielle

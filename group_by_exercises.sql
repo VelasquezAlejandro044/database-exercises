@@ -50,7 +50,7 @@ FROM employees
 ;
 
 -- 9 
-DESCRIBE departments;
+DESCRIBE salaries;
 
 -- 9.1 
 SELECT avg(salary) 
@@ -82,9 +82,11 @@ GROUP BY emp_no
 ORDER BY emp_no;
 
 -- 9.6
-SELECT emp_no, avg(salary) as a
+SELECT emp_no, avg(salary) as AVG_$$
 FROM salaries
-WHERE BETWEEN 90000 and 80000;
+WHERE to_date > curdate() 
+and salary BETWEEN 80000 and 90000
+GROUP BY emp_no;
 
 
 

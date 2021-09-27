@@ -20,3 +20,16 @@ Yesterday 09/20/2021
 
 “Some lessons you learn gradually and some you learn in a sudden moment, like a flash going off in a dark room.”
  ―  John Darnielle
+
+  09/24/2021
+
+Today I learned that one neeeds to stay truth to my self even if that means to no agree with my lved one.
+
+09/25/2021
+
+Today I learned that Colombia is one of the most beautiful countries of the wordl.
+
+09/26/2021
+
+Today I was remembered of how beautiful it is to share with others. To share with family and those who look up to you. 
+

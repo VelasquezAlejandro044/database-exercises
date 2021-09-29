@@ -33,3 +33,23 @@ Today I learned that Colombia is one of the most beautiful countries of the word
 
 Today I was remembered of how beautiful it is to share with others. To share with family and those who look up to you. 
 
+09/27/2021 
+Subqueries and temporari tables are a little more complexe than I expected. Time to work hardere
+
+09/28/2021
+A human must turn information into intelligence or knowledge. We've tended to forget that no computer will ever ask a new question - Grace Hopper
+
+- Continue to learn temporari tables. Lets get go!!
+
+# How to Verify Your Monthly Housing Stipend Once Enrolled
+ 
+In order to receive your monthly housing stipend, you must verify your attendance each month. Verifying your attendance is quick and easy.  Following each month of training, please email the Buffalo VET TEC processing team at VETTEC.VBABUF@va.gov  to confirm your attendance for the previous month. 
+In your email please include the following:
+·         First, Middle Initial and Last Name
+·         The month(s) you are verifying attendance
+·         DO NOT include your social security number (SSN) or other sensitive personal information, such as orders, direct deposit information or address changes.
+It is your responsibility to submit a monthly verification of attendance at the beginning of each month following the month in which you attended training.  VA will only issue a monthly housing payment after you verify your attendance to VA.  Please note, you may be responsible for any housing debts resulting from a reduction, withdrawal or termination of your program or changes to your eligibility.
+
+- If you can't solve a problem, then there is a simpler problem that you can solve. Find it!  - Poyla
+
+- "Work your solutions down, and your solutions up" Ryan Orsinger about SQL 

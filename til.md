@@ -1,3 +1,4 @@
+
 Yesterday 09/20/2021
  I lerned that SQL is a more complicated that I tought. 
  The UNICK fonction in SQL filters out the duplicated records of the specifies caracteristic 
@@ -53,3 +54,9 @@ It is your responsibility to submit a monthly verification of attendance at the 
 - If you can't solve a problem, then there is a simpler problem that you can solve. Find it!  - Poyla
 
 - "Work your solutions down, and your solutions up" Ryan Orsinger about SQL 
+
+## 09/29/2021
+
+### El pensamiento del dia
+
+“ ‘When someone seeks,’ said Siddhartha, ‘then it easily happens that his eyes see only the thing that he seeks, and he is able to find nothing, to take in nothing. [...] Seeking means: having a goal. But finding means: being free, being open, having no goal.’ ” Hermann Hesse

@@ -1,3 +1,4 @@
+USE albums_db;
 DESCRIBE albums;
 -- 3.
 -- a. There are 6 rows in the album table
@@ -24,4 +25,5 @@ SELECT name FROM albums WHERE sales < 20;
 -- e. Which albums had less than 20 million certified sales
 
 SELECT name FROM albums WHERE genre = 'Rock';
--- f. All the albums with a genre of "Rock"d
+-- f. All the albums with a genre of "Rock"
+-- Because oneneeds to use a wld card and the LIKE 

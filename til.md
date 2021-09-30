@@ -60,3 +60,7 @@ It is your responsibility to submit a monthly verification of attendance at the 
 ### El pensamiento del dia
 
 “ ‘When someone seeks,’ said Siddhartha, ‘then it easily happens that his eyes see only the thing that he seeks, and he is able to find nothing, to take in nothing. [...] Seeking means: having a goal. But finding means: being free, being open, having no goal.’ ” Hermann Hesse
+
+## 09/30/2021
+
+"Don't misuse statistics the way a drunk person misuses a lamp-post -- for support rather than for illumination"

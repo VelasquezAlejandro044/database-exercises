@@ -49,7 +49,9 @@ DESCRIBE hopper_1565.2employees_with_departments;
 USE sakila;
 CREATE TEMPORARY TABLE hopper_1565.payment AS
 SELECT * FROM payment;
+
 ALTER TABLE hopper_1565.payment ADD num_cents INT UNSIGNED;
+
 SELECT * FROM hopper_1565.payment;
 
 -- WARNING => drop table
@@ -59,41 +61,6 @@ UPDATE hopper_1565.payment SET hopper_1565.payment.num_cents = hopper_1565.payme
 SELECT * FROM hopper_1565.payment;
 
 
--- 3 Find out how the current average pay in each department compares to the overall, historical average pay. In order to make the comparison easier, you should use the Z-score for salaries. In terms of salary, what is the best department right now to work for? The worst?
-
--- Table with salaries, dept, and emp_no
-USE employees;
-CREATE TEMPORARY TABLE hopper_1565.Emp_No_Salary_Department AS
-SELECT * FROM `dept_emp` as de
-JOIN departments d USING(`dept_no`)
-JOIN salaries s USING(`emp_no`);
-
-
--- Over all historical average pay
-SELECT avg(salary) as Historical_avg_pay
-FROM salaries;
-
--- Current verage pay per department
-
-SELECT d.dept_name, avg(s.salary) FROM `dept_emp` as de
-JOIN departments d USING(`dept_no`)
-JOIN salaries s USING(`emp_no`)
-WHERE s.to_date LIKE '9999%'
-GROUP BY d.dept_name;
-
--- Returns the historic z-scores for each salary
-# SELECT salary, 
- #   (salary - (SELECT AVG(salary) FROM salaries)) 
-  #  / 
-   # (SELECT stddev(salary) FROM salaries) AS zscore
-# FROM salaries;
-
-SELECT salary, 
-    (SELECT avg(salary) as Historical_avg_pay
-	FROM salaries) - (SELECT AVG(salary) FROM salaries)) 
-    / 
-    (SELECT stddev(salary) FROM salaries) AS zscore
-FROM salaries;
 
 -- 3
 -- Find out how the current average pay in each department
@@ -155,19 +122,19 @@ USE hopper_1565;
 
 -- Add columns 
 
-ALTER TABLE salaries_by_dept ADD COLUMN company_avg_salary FLOAT(10, 2);
-ALTER TABLE salaries_by_dept ADD COLUMN company_std_salary FLOAT(10, 2);
-ALTER TABLE salaries_by_dept ADD COLUMN zscore FLOAT(10, 2);
+ALTER TABLE hopper_1565.salaries_by_dept ADD COLUMN company_avg_salary FLOAT(10, 2);
+ALTER TABLE hopper_1565.salaries_by_dept ADD COLUMN company_std_salary FLOAT(10, 2);
+ALTER TABLE hopper_1565.salaries_by_dept ADD COLUMN zscore FLOAT(10, 2);
 
-SELECT * FROM salaries_by_dept;
+SELECT * FROM hopper_1565.salaries_by_dept;
 
 -- Add data to columns
 
-UPDATE salaries_by_dept
+UPDATE hopper_1565.salaries_by_dept
 SET company_avg_salary = (SELECT avg(salary) FROM employees.salaries);
-UPDATE salaries_by_dept
+UPDATE hopper_1565.salaries_by_dept
 SET company_std_salary = (SELECT stddev(salary) FROM employees.salaries);
-UPDATE salaries_by_dept 
+UPDATE hopper_1565.salaries_by_dept 
 SET zscore = (cur_avg_salary - company_avg_salary) / company_std_salary;
 
 -- double check work

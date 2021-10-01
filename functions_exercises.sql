@@ -9,7 +9,7 @@ ORDER BY first_name;
 -- 3. upper()
 SELECT upper(CONCAT(first_name, ' ', last_name)) as full_name
 FROM `employees`
-WHERE first_name IN ('Irena', 'Vidya', 'Maya')
+WHERE first_name like 'e%e'
 ORDER BY first_name;
 	
 -- 4. 

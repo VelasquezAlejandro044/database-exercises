@@ -2,7 +2,7 @@
 Yesterday 09/20/2021
  I lerned that SQL is a more complicated that I tought. 
  The UNICK fonction in SQL filters out the duplicated records of the specifies caracteristic 
- 
+
  I learned that Alambique makes the best Colombian food in the city.
 
 09/21/2021
@@ -43,7 +43,7 @@ A human must turn information into intelligence or knowledge. We've tended to fo
 - Continue to learn temporari tables. Lets get go!!
 
 # How to Verify Your Monthly Housing Stipend Once Enrolled
- 
+
 In order to receive your monthly housing stipend, you must verify your attendance each month. Verifying your attendance is quick and easy.  Following each month of training, please email the Buffalo VET TEC processing team at VETTEC.VBABUF@va.gov  to confirm your attendance for the previous month. 
 In your email please include the following:
 ·         First, Middle Initial and Last Name
@@ -64,3 +64,13 @@ It is your responsibility to submit a monthly verification of attendance at the 
 ## 09/30/2021
 
 "Don't misuse statistics the way a drunk person misuses a lamp-post -- for support rather than for illumination"
+
+## 10/01/2021
+Python is life.
+
+## 10/04/2021
+ while loops are used whenyou don't want to stop untill achieving the desired results
+
+ ## 10/05/2021
+Today I learned about Iris Gonzales an untrepreneaur from San Antionio that hasa been workin in data science for over 25 years.
+

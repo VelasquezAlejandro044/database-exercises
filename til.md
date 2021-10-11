@@ -74,3 +74,21 @@ Python is life.
  ## 10/05/2021
 Today I learned about Iris Gonzales an untrepreneaur from San Antionio that hasa been workin in data science for over 25 years.
 
+## 10/06/2021
+"The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function. One should, for example, be able to see that things are hopeless and yet be determined to make them otherwise." - F. Scott Fitzgerald
+
+
+## 10/07/2021
+- TIL how to be able to import my code and functions into other documents. In order for this to happen, the predetermined functions have to be in the same folder and the name has to be a proper python identifier.
+
+- "You might not make it to the top, but if you are doing what you love, there is much more happiness there than being rich or famous." Toney Hawk
+
+## 10/08/2121
+
+- Madeleine Capper to Everyone (9:00 AM)
+"Not only is the Universe stranger than we think, it is stranger than we can think."
+Werner Heisenberg
+
+## 10/09/2021 
+
+Today I lerned that I have an issue. My GIT activity tracker is not counting correctly or I am completly wrong. It seems that up loads are not working.

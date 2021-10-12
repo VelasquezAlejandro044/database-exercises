@@ -92,3 +92,7 @@ Werner Heisenberg
 ## 10/09/2021 
 
 Today I lerned that I have an issue. My GIT activity tracker is not counting correctly or I am completly wrong. It seems that up loads are not working.
+
+## 10/12/2021
+
+"Practicing sewing/designing clothes? If all you have is expensive cloth, you'll never want to cut and learn to sew. No one learns to drive in a Ferrari on a mountain road." - Kathleen Dollard

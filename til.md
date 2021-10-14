@@ -96,3 +96,9 @@ Today I lerned that I have an issue. My GIT activity tracker is not counting cor
 ## 10/12/2021
 
 "Practicing sewing/designing clothes? If all you have is expensive cloth, you'll never want to cut and learn to sew. No one learns to drive in a Ferrari on a mountain road." - Kathleen Dollard
+
+## 10/13/2021
+
+Numpay arrays are amazing. They let you operate on them more eficient tha normal. Exites to elearn about pandas
+
+“ou just listen to your gut, okay? And on your way down to your gut, check in with your heart. Between those two things, they'll let you know what's what. They make good harmony, like two-thirds of Bone Thugs-N-Harmony, you know what I mean?” - Ted Lasso

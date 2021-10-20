@@ -103,6 +103,7 @@ Numpay arrays are amazing. They let you operate on them more eficient tha normal
 
 “ou just listen to your gut, okay? And on your way down to your gut, check in with your heart. Between those two things, they'll let you know what's what. They make good harmony, like two-thirds of Bone Thugs-N-Harmony, you know what I mean?” - Ted Lasso
 
+
 ## 10/15/2021
 
 Pandaas are a little confusing. but they do alot. time to dedicate moe time to the topic
@@ -114,3 +115,5 @@ Advance data frame structures are the way of solving issues. mix and match sql a
 ## 10/19/2021
 
 {"quote":"The process of doing a second draft is the process of making it look like you knew what you were doing all along","author":"Neil Gaiman"}
+
+Life is what you want it to be as long as you do what it takes to get there.

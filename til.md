@@ -129,3 +129,9 @@ Life is what you want it to be as long as you do what it takes to get there.
 Adam: 
 
 Do not be too hard on yourself. As a Code Up and a data science student, we will amass a lot of knowledge and it may feel overwhelming 
+
+
+
+## 10/26/2021 
+
+Thought for the Day: "There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time." - Malcolm X

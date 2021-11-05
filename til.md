@@ -135,3 +135,16 @@ Do not be too hard on yourself. As a Code Up and a data science student, we will
 ## 10/26/2021 
 
 Thought for the Day: "There is no better than adversity. Every defeat, every heartbreak, every loss, contains its own seed, its own lesson on how to improve your performance the next time." - Malcolm X
+
+
+
+## 11/03/2021 
+
+“All models are wrong, some models are useful.” - George Box
+
+
+
+## 11/03/2021 
+
+If debugging is the process of removing software bugs, then programming must be
+the process of putting them in. - Edsger Dijkstra

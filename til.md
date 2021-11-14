@@ -148,3 +148,17 @@ Thought for the Day: "There is no better than adversity. Every defeat, every hea
 
 If debugging is the process of removing software bugs, then programming must be
 the process of putting them in. - Edsger Dijkstra
+
+
+
+
+
+## 11/14/2021 
+
+> Happy families are all alike; every unhappy family is unhappy in its own way
+>
+> -- Leo Tolstoy
+
+Like families, tidy datasets are all alike but every messy dataset is messy in its own way.
+
+-- Hadley Wickham in his "Tidy Data" Paper
